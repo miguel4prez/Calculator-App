@@ -11,7 +11,7 @@ In order to run this project, you need to have a web browser installed on your m
 
 Installing
 Clone the repository to your local machine using the command below:
-git clone https://github.com/your-username/calculator.git
+git clone https://github.com/miguel4prez/Calculator-App.git
 
 Open the index.html file in your web browser.
 Usage
